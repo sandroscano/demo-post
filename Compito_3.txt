@@ -1,0 +1,22 @@
+-Cosa indica il tag <HTML>?
+L'inizio di una pagina HTML
+-A cosa serve il tag <HEAD>?
+A contenere informazioni sulla pagina
+-Cosa indica il tag <TITLE>?
+Il titolo della pagina
+-A cosa serve il tag <BODY>?
+A contenere il contenuto visibile della pagina
+-Cosa fa il tag <H1>?
+Visualizza un titolo principale
+-A cosa serve il tag <FORM>?
+A creare un modulo di input
+-Cosa fa l’attributo 'action' nel tag <FORM>?
+Indica la pagina a cui inviare i dati
+-Cosa fa l’attributo 'method' nel tag <FORM>?
+Indica il metodo di invio dei dati (GET o POST)
+-Quale metodo nasconde i dati inviati all’utente?
+POST
+-Quale metodo invia i dati visibili nella barra degli indirizzi?
+GET
+-Cosa fa il tag <INPUT>?
+Crea un campo di inserimento dati

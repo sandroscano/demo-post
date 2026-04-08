@@ -1,0 +1,181 @@
+-Cosa fa l’attributo 'name' in un campo input?
+Identifica il campo per il server PHP
+-Qual è la funzione dell’attributo 'value'?
+Imposta il valore predefinito del campo
+-Cosa fa l’attributo 'min' in un input di tipo number?
+Definisce il valore minimo accettato
+-Cosa fa l’attributo 'max' in un input di tipo number?
+Definisce il valore massimo accettato
+-A cosa serve il tag <FIELDSET>?
+A raggruppare elementi correlati in un form
+-A cosa serve il tag <LEGEND>?
+A inserire un titolo per un gruppo di campi in un form
+-Cosa fa il tag <BR>?
+A modificare l’aspetto del testo (es. colore, dimensione)
+-Come inizia un blocco di codice PHP?
+<?php
+-Come termina un blocco PHP?
+?>
+-Quale simbolo si usa per dichiarare una variabile in PHP?
+$
+-Come si stampa testo in PHP?
+echo
+-Quale superglobale contiene i dati inviati con metodo POST?
+$_POST
+-Come si concatena testo in PHP?
+.
+-Cosa fa il comando echo in PHP?
+Visualizza testo o variabili a schermo
+-Cosa significa // in PHP?
+Inizia un commento su una riga
+-Quale estensione ha un file PHP?
+.php
+-Cosa fa il codice $_POST['nomeutente']?
+Legge il valore del campo nomeutente inviato dal form
+-Cosa succede quando si clicca su 'INVIA' nel form?
+I dati vengono inviati alla pagina specificata in 'action'
+-Cosa fa il pulsante con type='reset'?
+Cancella i dati inseriti nel modulo
+-Qual è lo scopo dell’attributo 'password' in un input?
+Nasconde i caratteri inseriti
+-Cosa fa il codice PHP echo $dato;
+Stampa a video il contenuto della variabile $dato
+-Cosa succede se il file 'questionario.php' non esiste?
+Il browser mostra un errore 404
+-Cosa rappresenta <i> in HTML?
+Testo in corsivo
+-Cosa rappresenta <b> in HTML?
+Testo in grassetto
+-Cosa rappresenta <u> in HTML?
+Testo sottolineato
+-Cosa fa <font color='orange'>?
+Cambia il colore del testo in arancione
+-Cosa fa il comando 'echo "Benvenuto";' in PHP?
+Visualizza la scritta Benvenuto sullo schermo
+-Qual è la funzione principale del tag <legend>?
+Descrivere un gruppo di elementi in un form
+-Cosa fa il tag </html>?
+Chiude il documento HTML
+-Cosa indica il tag <form>?
+L’inizio di un modulo per l’invio di dati
+-Qual è la funzione del tag </body>?
+Chiude il corpo del documento HTML
+-Che cosa significa HTML?
+HyperText Markup Language
+-Qual è lo scopo principale dell’HTML?
+Descrivere la struttura di una pagina web
+-Quale tag viene usato per i titoli principali?
+<title>
+-Quale tag viene usato per i paragrafi?
+<p>
+-Quale tag si usa per inserire un’immagine?
+<img>
+-Quale attributo di <img> specifica la fonte dell’immagine?
+src
+-Quale attributo di <img> serve per il testo alternativo?
+alt
+-Quale tag serve per creare un collegamento ipertestuale?
+<a>
+-Quale attributo di <a> specifica la destinazione del link?
+href
+-Quale attributo di <a> apre un link in una nuova scheda?
+target="_blank"
+-Quale tag racchiude l’intero documento HTML?
+<html>
+-Quale tag contiene le informazioni della pagina, come titolo e meta?
+<head>
+-Quale tag contiene il contenuto visibile della pagina?
+<body>
+-Quale tag serve per creare una tabella?
+<table>
+-Quale tag definisce una riga di tabella?
+<tr>
+-Quale tag definisce una cella di tabella?
+<td>
+-Quale tag definisce un’intestazione di tabella?
+<th>
+-Quale tag serve per un elenco puntato?
+<ul>
+-Quale tag serve per un elenco numerato?
+<ol>
+-Quale tag serve per un elemento di lista?
+<li>
+-Quale tag serve per inserire un commento?
+<!-- -->
+-Quale tag viene usato per il testo in grassetto?
+<b>
+-Quale tag viene usato per il testo in corsivo?
+<i>
+-Quale tag viene usato per sottolineare il testo?
+<u>
+-Quale tag serve per definire un titolo nella scheda del browser?
+<title>
+-Quale tag serve per inserire una riga orizzontale?
+<hr>
+-Quale tag serve per andare a capo?
+<br>
+-Quale tag serve per inserire un collegamento a un file CSS?
+<link>
+-Quale attributo di <link> indica il foglio di stile?
+rel="stylesheet"
+-Quale attributo di <link> specifica il file CSS?
+href
+-Quale tag HTML5 definisce l’intestazione di una pagina o sezione?
+<header>
+-Quale tag HTML5 definisce il piè di pagina?
+<footer>
+-Quale tag HTML5 rappresenta una sezione autonoma?
+<section>
+-Quale tag HTML5 rappresenta un articolo indipendente?
+<article>
+-Quale tag HTML5 viene usato per la navigazione?
+<meta>
+-Quale tag HTML5 viene usato per la navigazione?
+<nav>
+-Quale tag HTML5 serve per contenere contenuti multimediali?
+<meta>
+-Quale tag HTML5 serve per descrivere un’immagine o figura?
+<figcaption>
+-Quale tag viene usato per incorporare un video?
+<video>
+-Quale tag viene usato per incorporare un audio?
+<audio>
+-Quale attributo di <video> o <audio> abilita i controlli di riproduzione?
+controls
+-Quale attributo di <video> specifica la fonte del file multimediale?
+src
+-Quale tag serve per creare un modulo di input?
+<form>
+-Quale tag serve per un campo di testo?
+<input>
+-Quale attributo di <input> definisce il tipo di campo?
+type
+-Quale tag serve per un’area di testo più ampia?
+<textarea>
+-Quale tag serve per un pulsante di invio?
+<button>
+-Quale attributo di <form> definisce il metodo di invio dei dati?
+method
+-Quali sono i metodi di invio principali?
+GET e POST
+-Quale tag HTML serve per inserire script JavaScript?
+<script>
+-Quale tag serve per aggiungere metadati alla pagina?
+<meta>
+-Quale tag definisce un blocco generico?
+<div>
+-Quale attributo <meta> imposta la descrizione della pagina?
+name="description"
+-Quale tag definisce un elemento inline?
+<span>
+
+
+
+
+
+
+
+
+
+
+

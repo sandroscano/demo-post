@@ -1,0 +1,86 @@
+-In un diagramma E/R, come viene solitamente rappresentato un attributo (attribute)?
+Ellisse collegata a un'entità
+-Quale simbolo nel modello E/R rappresenta un’associazione (relationship)?
+Rombo (diamond)
+-Quale delle seguenti è un attributo (attribute) dell'entità STUDENTE?
+Matricola
+-Quando si modella VOTO con attributi periodo, voto e tipo — che cos’è VOTO nel modello E/R?
+Entità
+-In una relazione 1:N tra REGIONE e COMUNE, quale affermazione è corretta?
+Una regione può comprendere molti comuni
+-Quale tipo di relazione consente a ogni elemento di entrambe le entità di essere associato a più elementi dell’altra entità?
+N:N
+-Come viene tradotta normalmente una relazione N:N nel modello relazionale (relational model)?
+Si crea una terza tabella che contiene le chiavi di entrambe le entità
+-Se 'Ogni materia è insegnata da uno o più docenti' e 'Ogni docente insegna una o più materie', la relazione è:
+N:N
+-Quando si converte una relazione 1:N nel modello relazionale, dove si colloca la chiave esterna (foreign key)?
+Nella tabella sul lato 'N'
+-Come viene solitamente tradotta una relazione 1:1 nel modello relazionale (relational model)?
+Una singola tabella che contiene gli attributi di entrambe le entità
+-Per una relazione N:N come 'MATERIA insegnare DOCENTE', quali tabelle risultano dopo la conversione?
+tMaterie, tDocenti, tInsegnare
+-Se la chiave primaria (primary key) di una tabella di relazione è composta da due chiavi esterne (foreign key), significa che:
+La combinazione garantisce l’unicità
+-Quale campo è una buona scelta come chiave primaria (primary key) della tabella STUDENTE?
+Matricola
+-Nella tabella tInsegnare (IDMat, IDDoc), se la combinazione IDMat-IDDoc garantisce unicità, cosa può essere usato come chiave primaria (primary key)?
+La coppia (IDMat, IDDoc)
+-Una chiave esterna (foreign key) è:
+Un campo che fa riferimento alla chiave primaria (primary key) di un’altra tabella
+-Hai le entità AUTO e CLIENTE con una relazione N:N 'noleggiare' che può ripetersi nel tempo. Qual è la migliore progettazione relazionale?
+Tre tabelle: AUTO, CLIENTE, tNoleggiare con il proprio ID e chiavi esterne (foreign keys) verso AUTO e CLIENTE
+-In un database di iscrizione ai corsi, dove ogni studente frequenta esattamente un corso, quale cardinalità da STUDENTE a CORSO è corretta?
+1:N dove STUDENTE è sul lato N
+-Hai modellato 'Sposare' tra MARITO e MOGLIE come 1:1. Qual è la corretta conversione nel modello relazionale (relational model)?
+Usare una tabella di join con entrambe le chiavi
+-La tabella tInsegnare contiene IDMat, IDDoc e oreSettimanali. Questo indica che:
+È un attributo (attribute) di DOCENTE
+-Qual è l'obiettivo principale della chiave esterna?
+Garantire l'unicità dei record
+-Cosa rappresenta un’entità nel modello relazionale?
+Una tabella
+-Cosa rappresentano le associazioni nel modello E/R?
+L’associazione tra entità
+-Cosa rappresentano le entità nel modello E/R?
+Categorie di oggetti di interesse
+-Cosa indica una relazione N:N?
+Ogni elemento di un’entità è associato a più elementi dell’altra e viceversa
+-Con quale modello si rappresentano i risultati del livello concettuale?
+Modello E/R
+-Cosa rappresenta il livello logico?
+La traduzione del modello E/R in strutture relazionali
+-Cosa rappresentano gli attributi nel modello relazionale?
+I campi delle tabelle
+-Qual è il compito del DBMS?
+Gestire l’archiviazione e l’accesso ai dati
+-Quale modello è tipico del livello logico?
+Modello relazionale
+-Come si traduce un’associazione 1:N nel modello relazionale?
+Con due tabelle e una chiave esterna nella tabella N
+-Cosa rappresenta il modello fisico?
+La realizzazione concreta del database su memoria di massa
+-Come si chiama il campo che collega due tabelle?
+Chiave esterna
+-Qual è il primo livello della progettazione di un database?
+Livello concettuale
+-Cosa identifica univocamente un record?
+La chiave primaria
+-Cosa indica una relazione 1:1?
+Ogni elemento di una entità è associato a un solo elemento dell’altra
+-Cosa significa DBMS?
+Database Management System
+-Cosa indica una relazione 1:N?
+Un elemento della prima entità è associato a più elementi della seconda
+-Cosa rappresentano gli attributi nel modello E/R?
+Le proprietà che descrivono le entità
+-Con quale simbolo si rappresenta un attributo nel modello E/R?
+Cerchio
+-Con quale simbolo si rappresenta un’associazione nel modello E/R?
+Rombo
+-Qual è l’obiettivo del livello concettuale?
+Analizzare la realtà per individuare entità, attributi e relazioni
+-Con quale simbolo si rappresenta un’entità nel modello E/R?
+Rettangolo
+-Che cos’è XAMPP?
+Un insieme di software per lo sviluppo web locale
